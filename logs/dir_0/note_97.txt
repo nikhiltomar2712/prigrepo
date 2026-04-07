@@ -1,0 +1,2 @@
+Log entry #97 - Topic: Prompt Hacking
+Adversarial prompts exploit the token representation to trigger unintended model behaviors.
