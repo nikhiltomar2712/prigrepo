@@ -1,0 +1,2 @@
+Log entry #279 - Topic: Prompt Hacking
+Defending against prompt injection requires separating instruction context from user input context.
