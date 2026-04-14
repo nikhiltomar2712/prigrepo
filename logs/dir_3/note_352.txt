@@ -1,0 +1,2 @@
+Log entry #352 - Topic: AI Coding
+Always review AI-generated code for security vulnerabilities, especially SQL injection and XSS.
