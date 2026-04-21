@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+# Log Entry #578
+# Topic: AI Coding
+
+def log_entry_578():
+    # Prompt engineering for code: Use comments to guide the model step-by-step.
+    pass
