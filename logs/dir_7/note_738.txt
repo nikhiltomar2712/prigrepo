@@ -1,0 +1,2 @@
+Log entry #738 - Topic: AI Coding
+Few-shot prompting helps code models learn specific APIs and project styles on the fly.
