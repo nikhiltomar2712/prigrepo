@@ -1,0 +1,2 @@
+Log entry #911 - Topic: AI Coding
+Generating clean code with AI requires defining strict style guidelines in the system prompt.
