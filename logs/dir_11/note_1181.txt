@@ -1,0 +1,2 @@
+Log entry #1181 - Topic: AI Coding
+AI code generation models like StarCoder and Codex are trained on public repository code.
