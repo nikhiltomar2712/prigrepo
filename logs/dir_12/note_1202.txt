@@ -1,0 +1,2 @@
+Log entry #1202 - Topic: Prompt Hacking
+Evaluating LLMs against prompt injection can be done using automated red-teaming frameworks.
