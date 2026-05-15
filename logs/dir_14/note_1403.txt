@@ -1,0 +1,2 @@
+Log entry #1403 - Topic: Cybersecurity
+Multi-factor authentication (MFA) significantly reduces the risk of credential stuffing attacks.
