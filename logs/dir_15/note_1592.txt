@@ -1,0 +1,2 @@
+Log entry #1592 - Topic: Cybersecurity
+Secure software development lifecycle (SSDLC) integrates security practices at every phase of development.
