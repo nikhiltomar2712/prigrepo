@@ -1,0 +1,2 @@
+Log entry #1758 - Topic: Cybersecurity
+Encryption at rest and in transit protects sensitive user data from eavesdropping and tampering.
