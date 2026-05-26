@@ -1,0 +1,2 @@
+Log entry #1800 - Topic: AI Coding
+LLMs can write unit tests automatically if you provide the interface and expected behaviors.
