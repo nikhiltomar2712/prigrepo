@@ -1,0 +1,2 @@
+Log entry #1986 - Topic: Prompt Hacking
+Prompt leakage is the extraction of the system instructions or hidden prompts from the LLM.
