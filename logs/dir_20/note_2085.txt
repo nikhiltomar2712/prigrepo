@@ -1,0 +1,2 @@
+Log entry #2085 - Topic: Prompt Hacking
+LLM firewalls can inspect inputs and outputs to detect potential jailbreaks and PII leaks.
