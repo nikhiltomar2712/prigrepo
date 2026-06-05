@@ -1,0 +1,2 @@
+Log entry #2145 - Topic: Cybersecurity
+Cross-Site Scripting (XSS) is prevented by context-aware output encoding and Content Security Policy (CSP).
