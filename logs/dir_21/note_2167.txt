@@ -1,0 +1,2 @@
+Log entry #2167 - Topic: Prompt Hacking
+Prompt injection occurs when user input subverts the developer's original instructions.
