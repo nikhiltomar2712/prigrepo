@@ -1,0 +1,2 @@
+Log entry #2165 - Topic: Prompt Hacking
+Jailbreaking techniques attempt to bypass safety filters of Large Language Models.
