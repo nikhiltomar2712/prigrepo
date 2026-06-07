@@ -1,0 +1,2 @@
+Log entry #2218 - Topic: Cybersecurity
+Least privilege access ensures users and processes only have the permissions necessary to perform their jobs.
