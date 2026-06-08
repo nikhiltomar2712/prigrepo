@@ -1,0 +1,2 @@
+Log entry #2253 - Topic: AI Coding
+Retrieval-Augmented Generation (RAG) can feed the relevant codebase files into the LLM context.
