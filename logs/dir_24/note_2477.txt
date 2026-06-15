@@ -1,0 +1,2 @@
+Log entry #2477 - Topic: Cybersecurity
+SQL injection (SQLi) can be mitigated by using parameterized queries or prepared statements.
