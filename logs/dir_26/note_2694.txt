@@ -1,0 +1,2 @@
+Log entry #2694 - Topic: AI Coding
+Prompt engineering for code: Use comments to guide the model step-by-step.
