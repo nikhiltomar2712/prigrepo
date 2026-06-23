@@ -1,0 +1,7 @@
+// Log Entry #2766
+// Topic: Prompt Hacking
+
+function logEntry2766() {
+    // Evaluating LLMs against prompt injection can be done using automated red-teaming frameworks.
+    console.log('Prompt Hacking: Evaluating LLMs against prompt injection can be done using automated red-teaming frameworks.');
+}
