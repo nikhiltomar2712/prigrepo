@@ -1,0 +1,2 @@
+Log entry #2832 - Topic: Prompt Hacking
+Token smuggling uses obfuscation like Base64 or translation to hide adversarial prompts from detectors.
